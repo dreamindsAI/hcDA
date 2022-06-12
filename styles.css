@@ -1,9 +1,9 @@
 .sticky-top {
-    padding: 5;
+    padding: 2;
     position: sticky;
     top: 0;
     background-color: rgb(186, 218, 246);
-    height: 20;
+    height: 50;
     /* z-index: 1020; */
 }
 
