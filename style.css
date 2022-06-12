@@ -1,4 +1,5 @@
-sticky-top {
+.sticky-top {
+    padding: 5;
     position: sticky;
     top: 0;
     background-color: rgb(186, 218, 246);
