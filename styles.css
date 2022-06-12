@@ -2,10 +2,7 @@
     padding: 2;
     position: sticky;
     top: 0;
-    background-color: rgb(186, 218, 246);
-    height: 100px;
-    vertical-align: middle;
-    /* z-index: 1020; */
+    height: auto;
 }
 
 h1{
